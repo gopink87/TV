@@ -1,2 +1,0 @@
-# TV
-Gopink IPTV Playlist
